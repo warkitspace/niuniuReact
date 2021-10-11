@@ -1,0 +1,26 @@
+import React from 'react'
+
+// Const
+// const harga = 3000;
+
+// menunjukan hasil 30000
+var harga = 30000;
+var harga = 20000;
+if(true){
+}
+
+// //menunjukan hasil 100000
+// let harga = 100000;
+// if(true){
+//     let harga = 20000;
+// }
+
+export const Variabel = () => {
+    return (
+        <div>
+            <h2>Nominal : {harga}</h2>
+        </div>
+    )
+}
+
+export default Variabel
