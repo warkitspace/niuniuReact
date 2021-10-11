@@ -22,5 +22,3 @@ export const Variabel = () => {
         </div>
     )
 }
-
-export default Variabel
